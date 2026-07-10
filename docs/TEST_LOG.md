@@ -32,7 +32,7 @@ AI использовался как ускоритель разработки: 
 ## Ссылки
 
 - Web App: https://script.google.com/macros/s/AKfycbwUqw1prf0ZuZY_IIe9JlHfudo_s9Y6qjgBvzGayZfD4Mz1Nl81G_DQUAQTL8Ilojv1Ug/exec
-- Google Sheets DB: https://docs.google.com/spreadsheets/d/169tUJfh8pSzUgRl44ghFfYY-J19TAcML7pt2JA/edit?gid=1003#gid=1003
+- Google Sheets DB: https://docs.google.com/spreadsheets/d/169tUJfh8pSz6nzTpUgRl44ghFfYY-J19TAcML7pt2JA/edit?gid=1003#gid=1003
 
 ## Время
 
